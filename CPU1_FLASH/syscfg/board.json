@@ -1,0 +1,24 @@
+{
+    "interruptInfo" : [
+        {
+            "interruptName": "INT_PS1_XINT",
+            "interruptHandler": "INT_PS1_XINT_ISR"
+        },
+        {
+            "interruptName": "INT_PS2_XINT",
+            "interruptHandler": "INT_PS2_XINT_ISR"
+        },
+        {
+            "interruptName": "INT_PS3_XINT",
+            "interruptHandler": "INT_PS3_XINT_ISR"
+        },
+        {
+            "interruptName": "INT_PS4_XINT",
+            "interruptHandler": "INT_PS4_XINT_ISR"
+        },
+        {
+            "interruptName": "INT_PS5_XINT",
+            "interruptHandler": "INT_PS5_XINT_ISR"
+        }
+    ]
+}

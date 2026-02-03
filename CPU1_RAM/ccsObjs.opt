@@ -1,0 +1,9 @@
+"./syscfg/board.obj"
+"./syscfg/c2000ware_libraries.obj"
+"./main.obj"
+"./device/device.obj"
+"./device/f28p65x_codestartbranch.obj"
+"../28p65x_generic_ram_lnk_cpu1.cmd"
+"C:/ti/C2000Ware_6_00_01_00/driverlib/f28p65x/driverlib/ccs/Debug/driverlib.lib"
+-lc2000ware_libraries.cmd.genlibs
+-llibc.a

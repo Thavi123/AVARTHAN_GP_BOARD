@@ -1,0 +1,27 @@
+[
+   {
+      "directory" : "D:/Avartan_generalpurpose/empty_driverlib_project/CPU1_FLASH",
+      "command"   : "clang++ -I\"D:/Avartan_generalpurpose/empty_driverlib_project\" -I\"C:/ti/C2000Ware_6_00_01_00\" -I\"D:/Avartan_generalpurpose/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_6_00_01_00/driverlib/f28p65x/driverlib/\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -D_FLASH -DDEBUG -DCPU1 -I\"D:/Avartan_generalpurpose/empty_driverlib_project/CPU1_FLASH/syscfg\" -xc",
+      "file"      : "D:/Avartan_generalpurpose/empty_driverlib_project/device/device.c"
+   },
+   {
+      "directory" : "D:/Avartan_generalpurpose/empty_driverlib_project/CPU1_FLASH",
+      "command"   : "clang++ -I\"D:/Avartan_generalpurpose/empty_driverlib_project\" -I\"C:/ti/C2000Ware_6_00_01_00\" -I\"D:/Avartan_generalpurpose/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_6_00_01_00/driverlib/f28p65x/driverlib/\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -D_FLASH -DDEBUG -DCPU1 -I\"D:/Avartan_generalpurpose/empty_driverlib_project/CPU1_FLASH/syscfg\"",
+      "file"      : "D:/Avartan_generalpurpose/empty_driverlib_project/device/f28p65x_codestartbranch.asm"
+   },
+   {
+      "directory" : "D:/Avartan_generalpurpose/empty_driverlib_project/CPU1_FLASH",
+      "command"   : "clang++ -I\"D:/Avartan_generalpurpose/empty_driverlib_project\" -I\"C:/ti/C2000Ware_6_00_01_00\" -I\"D:/Avartan_generalpurpose/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_6_00_01_00/driverlib/f28p65x/driverlib/\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -D_FLASH -DDEBUG -DCPU1 -I\"D:/Avartan_generalpurpose/empty_driverlib_project/CPU1_FLASH/syscfg\" -xc",
+      "file"      : "D:/Avartan_generalpurpose/empty_driverlib_project/CPU1_FLASH/syscfg/board.c"
+   },
+   {
+      "directory" : "D:/Avartan_generalpurpose/empty_driverlib_project/CPU1_FLASH",
+      "command"   : "clang++ -I\"D:/Avartan_generalpurpose/empty_driverlib_project\" -I\"C:/ti/C2000Ware_6_00_01_00\" -I\"D:/Avartan_generalpurpose/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_6_00_01_00/driverlib/f28p65x/driverlib/\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -D_FLASH -DDEBUG -DCPU1 -I\"D:/Avartan_generalpurpose/empty_driverlib_project/CPU1_FLASH/syscfg\" -xc",
+      "file"      : "D:/Avartan_generalpurpose/empty_driverlib_project/CPU1_FLASH/syscfg/c2000ware_libraries.c"
+   },
+   {
+      "directory" : "D:/Avartan_generalpurpose/empty_driverlib_project/CPU1_FLASH",
+      "command"   : "clang++ -I\"D:/Avartan_generalpurpose/empty_driverlib_project\" -I\"C:/ti/C2000Ware_6_00_01_00\" -I\"D:/Avartan_generalpurpose/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_6_00_01_00/driverlib/f28p65x/driverlib/\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -D_FLASH -DDEBUG -DCPU1 -I\"D:/Avartan_generalpurpose/empty_driverlib_project/CPU1_FLASH/syscfg\" -xc",
+      "file"      : "D:/Avartan_generalpurpose/empty_driverlib_project/main.c"
+   }
+]

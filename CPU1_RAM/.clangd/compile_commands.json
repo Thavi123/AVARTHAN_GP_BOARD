@@ -1,0 +1,27 @@
+[
+   {
+      "directory" : "D:/git_code/generalpurpose/CPU1_RAM",
+      "command"   : "clang++ -I\"D:/git_code/generalpurpose\" -I\"C:/ti/C2000Ware_6_00_01_00\" -I\"D:/git_code/generalpurpose/device\" -I\"C:/ti/C2000Ware_6_00_01_00/driverlib/f28p65x/driverlib/\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -DRAM -DDEBUG -DCPU1 -I\"D:/git_code/generalpurpose/CPU1_RAM/syscfg\" -DF28P65x=1 -xc",
+      "file"      : "D:/git_code/generalpurpose/CPU1_RAM/syscfg/board.c"
+   },
+   {
+      "directory" : "D:/git_code/generalpurpose/CPU1_RAM",
+      "command"   : "clang++ -I\"D:/git_code/generalpurpose\" -I\"C:/ti/C2000Ware_6_00_01_00\" -I\"D:/git_code/generalpurpose/device\" -I\"C:/ti/C2000Ware_6_00_01_00/driverlib/f28p65x/driverlib/\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -DRAM -DDEBUG -DCPU1 -I\"D:/git_code/generalpurpose/CPU1_RAM/syscfg\" -DF28P65x=1 -xc",
+      "file"      : "D:/git_code/generalpurpose/CPU1_RAM/syscfg/c2000ware_libraries.c"
+   },
+   {
+      "directory" : "D:/git_code/generalpurpose/CPU1_RAM",
+      "command"   : "clang++ -I\"D:/git_code/generalpurpose\" -I\"C:/ti/C2000Ware_6_00_01_00\" -I\"D:/git_code/generalpurpose/device\" -I\"C:/ti/C2000Ware_6_00_01_00/driverlib/f28p65x/driverlib/\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -DRAM -DDEBUG -DCPU1 -I\"D:/git_code/generalpurpose/CPU1_RAM/syscfg\" -DF28P65x=1 -xc",
+      "file"      : "D:/git_code/generalpurpose/device/device.c"
+   },
+   {
+      "directory" : "D:/git_code/generalpurpose/CPU1_RAM",
+      "command"   : "clang++ -I\"D:/git_code/generalpurpose\" -I\"C:/ti/C2000Ware_6_00_01_00\" -I\"D:/git_code/generalpurpose/device\" -I\"C:/ti/C2000Ware_6_00_01_00/driverlib/f28p65x/driverlib/\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -DRAM -DDEBUG -DCPU1 -I\"D:/git_code/generalpurpose/CPU1_RAM/syscfg\" -DF28P65x=1",
+      "file"      : "D:/git_code/generalpurpose/device/f28p65x_codestartbranch.asm"
+   },
+   {
+      "directory" : "D:/git_code/generalpurpose/CPU1_RAM",
+      "command"   : "clang++ -I\"D:/git_code/generalpurpose\" -I\"C:/ti/C2000Ware_6_00_01_00\" -I\"D:/git_code/generalpurpose/device\" -I\"C:/ti/C2000Ware_6_00_01_00/driverlib/f28p65x/driverlib/\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -DRAM -DDEBUG -DCPU1 -I\"D:/git_code/generalpurpose/CPU1_RAM/syscfg\" -DF28P65x=1 -xc",
+      "file"      : "D:/git_code/generalpurpose/main.c"
+   }
+]
